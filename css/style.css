@@ -4,7 +4,7 @@ body,
   height: 100%;
   margin: 0;
   overflow-y: hidden;
-  cursor: url(/source/Sans-titre.png), auto;
+  cursor: url(source/Sans-titre.png), auto;
 }
 
 .grid-container {
@@ -86,7 +86,6 @@ p {
 a {
   font-family: "Montserrat", sans-serif;
   color: black;
-  cursor: url(source/Sans-titre.png), auto;
 }
 .socialmedia {
   margin: 30px;
