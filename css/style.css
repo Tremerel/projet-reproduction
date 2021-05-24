@@ -4,7 +4,7 @@ body,
   height: 100%;
   margin: 0;
   overflow-y: hidden;
-  cursor: url(/source/curseur.png), auto;
+  cursor: url(../source/curseur.png), auto;
 }
 
 .grid-container {
